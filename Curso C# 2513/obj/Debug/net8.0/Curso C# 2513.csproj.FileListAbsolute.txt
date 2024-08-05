@@ -1,0 +1,14 @@
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\Curso C# 2513.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\Curso C# 2513.AssemblyInfoInputs.cache
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\Curso C# 2513.AssemblyInfo.cs
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\Curso C# 2513.csproj.CoreCompileInputs.cache
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\bin\Debug\net8.0\Curso C# 2513.exe
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\bin\Debug\net8.0\Curso C# 2513.deps.json
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\bin\Debug\net8.0\Curso C# 2513.runtimeconfig.json
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\bin\Debug\net8.0\Curso C# 2513.dll
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\bin\Debug\net8.0\Curso C# 2513.pdb
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\Curso C# 2513.dll
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\refint\Curso C# 2513.dll
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\Curso C# 2513.pdb
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\Curso C# 2513.genruntimeconfig.cache
+C:\Users\pexol\source\repos\Curso C# 2513\Curso C# 2513\obj\Debug\net8.0\ref\Curso C# 2513.dll

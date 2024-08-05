@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Curso C# 2513/1.0.0": {
+        "runtime": {
+          "Curso C# 2513.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso C# 2513/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
